@@ -52,9 +52,9 @@ Have fun creating art!
 |---|---|---|
 |[@shwars][shwars]|[@shwars][shwars]|[@shwars][shwars]|
 |---|---|---|
-| <img src="results/Age1.jpg" width="300"/> | <img src="results/Ages2.jpg" width="300"/> | <img src="results/gates-2face.jpg" width="300"/> |
+| <img src="results/Age1.jpg" width="300"/> | <img src="results/Ages2.jpg" width="300"/> | <img src="results/gates_sqr.jpg" width="300"/> |
 |[@shwars][shwars]|[@shwars][shwars]|
-| <img src="results/gates_circ.jpg" width="300"/> | |
+| <img src="results/gates_5.jpg" width="300"/> | |
 | [@shwars][shwars] | |
 |---|---|---|
 
