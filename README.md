@@ -43,15 +43,20 @@ Have fun creating art!
 |----|----|----|----|
 | ![People Blending](results/gates.jpg) | [@shwars][shwars] | [CognitivePortrait.ipynb](CognitivePortrait.ipynb) | A number of photographs are aligned by their eyes and blended together to create an "average" photograph of a person |
 | ![2Face](results/gates_2face.jpg) | [@shwars][shwars] | [CognitivePortrait-2face.ipynb](CognitivePortrait-2face.ipynb) | Photographs are grouped into two sets of different ages, and blended side-by-side |
+| ![FaceCircle](results/gates_circ.jpg) | [@shwars][shwars] | [CognitivePortrait-Circle.ipynb](CognitivePortrait-Circle.ipynb) | Aligning faces to that eyes lie on a circle, creating visual whirlpool |
 |----|----|----|----|
 
 ## Artwork Gallery
-|<img src="results/olgaza.jpg" width="300"/>|<img src="results/irari.jpg" width="300"/>|<img src="results/PhoBoGuy.png" width="300"/>|
+
+| <img src="results/olgaza.jpg" width="300"/> | <img src="results/irari.jpg" width="300"/> | <img src="results/PhoBoGuy.png" width="300"/> |
+|---|---|---|
 |[@shwars][shwars]|[@shwars][shwars]|[@shwars][shwars]|
 |---|---|---|
-|<img src="results/Age1.jpg" width="300"/>|<img src="results/Ages2.jpg" width="300"/>|<img src="results/2face.jpg" width="300"/> |
-|[@shwars][shwars]|[@shwars][shwars]| |
-
+| <img src="results/Age1.jpg" width="300"/> | <img src="results/Ages2.jpg" width="300"/> | <img src="results/gates-2face.jpg" width="300"/> |
+|[@shwars][shwars]|[@shwars][shwars]|
+| <img src="results/gates_circ.jpg" width="300"/> | |
+| [@shwars][shwars] | |
+|---|---|---|
 
 [FaceAPI]: https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=aiapril-github-dmitryso
 [shwars]: https://github.com/shwars
