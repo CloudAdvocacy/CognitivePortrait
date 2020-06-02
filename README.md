@@ -45,7 +45,7 @@ Have fun creating art!
 | ![2Face](results/gates_2face.jpg) | [@shwars][shwars] | [CognitivePortrait-2face.ipynb](CognitivePortrait-2face.ipynb) | Photographs are grouped into two sets of different ages, and blended side-by-side |
 | ![FaceCircle](results/gates_circ.jpg) | [@shwars][shwars] | [CognitivePortrait-Circle.ipynb](CognitivePortrait-Circle.ipynb) | Aligning faces to that eyes lie on a circle, creating visual whirlpool |
 | ![OPEN YOUR THIRD EYE](results/gates_third_eye.jpg) | [@semenovdv][semenovdv] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ThirdEye.ipynb) | Aligning the pupils into a triangle, thereby making a third eye |
-| ![two_gates_aqua](results/two_gates_aqua.jpg) | [@Stifeev][https://github.com/Stifeev] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ReflectionAqua.py) | Выравнивание с использование меток, отражения, акварельный фильтр |
+| ![two_gates_aqua](results/two_gates_aqua.jpg) | [@Stifeev](https://github.com/Stifeev) | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ReflectionAqua.py) | Выравнивание с использование меток, отражения, акварельный фильтр |
 |----|----|----|----|
 
 ## Artwork Gallery
