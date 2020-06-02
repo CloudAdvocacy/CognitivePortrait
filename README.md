@@ -39,14 +39,14 @@ Have fun creating art!
 
 ## Techniques Created by Community
 
-| Artwork                                             | Created by              | Code                                                         | Description                                                  |
-| --------------------------------------------------- | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![People Blending](results/gates.jpg)               | [@shwars][shwars]       | [CognitivePortrait.ipynb](CognitivePortrait.ipynb)           | A number of photographs are aligned by their eyes and blended together to create an "average" photograph of a person |
-| ![2Face](results/gates_2face.jpg)                   | [@shwars][shwars]       | [CognitivePortrait-2face.ipynb](CognitivePortrait-2face.ipynb) | Photographs are grouped into two sets of different ages, and blended side-by-side |
-| ![FaceCircle](results/gates_circ.jpg)               | [@shwars][shwars]       | [CognitivePortrait-Circle.ipynb](CognitivePortrait-Circle.ipynb) | Aligning faces to that eyes lie on a circle, creating visual whirlpool |
-| ![OPEN YOUR THIRD EYE](results/gates_third_eye.jpg) | [@semenovdv][semenovdv] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ThirdEye.ipynb) | Aligning the pupils into a triangle, thereby making a third eye |
-| ![two_gates_aqua](results\two_gates_aqua.jpg)       | [@Stifeev](Stifeev)     | [CognitivePortrait-ReflectionAqua.py](CognitivePortrait-ReflectionAqua.py) | Выравнивание по меткам, отражения и эффект акварели          |
-| ----                                                | ----                    | ----                                                         | ----                                                         |
+| Artwork                                                      | Created by              | Code                                                         | Description                                                  |
+| ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![People Blending](results/gates.jpg)                        | [@shwars][shwars]       | [CognitivePortrait.ipynb](CognitivePortrait.ipynb)           | A number of photographs are aligned by their eyes and blended together to create an "average" photograph of a person |
+| ![2Face](results/gates_2face.jpg)                            | [@shwars][shwars]       | [CognitivePortrait-2face.ipynb](CognitivePortrait-2face.ipynb) | Photographs are grouped into two sets of different ages, and blended side-by-side |
+| ![FaceCircle](results/gates_circ.jpg)                        | [@shwars][shwars]       | [CognitivePortrait-Circle.ipynb](CognitivePortrait-Circle.ipynb) | Aligning faces to that eyes lie on a circle, creating visual whirlpool |
+| ![OPEN YOUR THIRD EYE](results/gates_third_eye.jpg)          | [@semenovdv][semenovdv] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ThirdEye.ipynb) | Aligning the pupils into a triangle, thereby making a third eye |
+| ![](http://images.vfl.ru/ii/1591126842/c1b0a9bd/30701087.jpg) | [@Stifeev](Stifeev)     | [CognitivePortrait-ReflectionAqua.py](CognitivePortrait-ReflectionAqua.py) | Выравнивание по меткам, отражения и эффект акварели          |
+| ----                                                         | ----                    | ----                                                         | ----                                                         |
 
 ## Artwork Gallery
 
