@@ -116,4 +116,4 @@ plt.axis("off")
 
 #%% сохранение
         
-cv2.imwrite("results/two_gates.jpg", cv2.cvtColor(aqua_res, cv2.COLOR_BGR2RGB))
+cv2.imwrite("results/two_gates_aqua.jpg", cv2.cvtColor(aqua_res, cv2.COLOR_BGR2RGB))
