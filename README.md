@@ -46,6 +46,7 @@ Have fun creating art!
 | ![FaceCircle](results/gates_circ.jpg) | [@shwars][shwars] | [CognitivePortrait-Circle.ipynb](CognitivePortrait-Circle.ipynb) | Aligning faces to that eyes lie on a circle, creating visual whirlpool |
 | ![OPEN YOUR THIRD EYE](results/gates_third_eye.jpg) | [@semenovdv][semenovdv] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ThirdEye.ipynb) | Aligning the pupils into a triangle, thereby making a third eye |
 | ![two_gates_aqua](results/two_gates_aqua.jpg) | [@Stifeev](https://github.com/Stifeev) | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ReflectionAqua.py) | Выравнивание с использование меток, отражения, акварельный фильтр |
+| ![and we will all become dragons](results/dragon.jpg) | [@noxpardus](https://github.com/noxpardus) | [CognitivePortrait-Dragon.ipynb](CognitivePortrait-Dragon.ipynb) | Placement of pupils at the vertices of the dragon fractal |
 |----|----|----|----|
 
 ## Artwork Gallery
