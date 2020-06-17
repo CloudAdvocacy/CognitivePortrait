@@ -47,8 +47,8 @@ Have fun creating art!
 | ![OPEN YOUR THIRD EYE](results/gates_third_eye.jpg) | [@semenovdv][semenovdv] | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ThirdEye.ipynb) | Aligning the pupils into a triangle, thereby making a third eye |
 | ![two_gates_aqua](results/two_gates_aqua.jpg) | [@Stifeev](https://github.com/Stifeev) | [CognitivePortrait-ThirdEye.ipynb](CognitivePortrait-ReflectionAqua.py) | Выравнивание с использование меток, отражения, акварельный фильтр |
 | ![and we will all become dragons](results/dragon.jpg) | [@noxpardus](https://github.com/noxpardus) | [CognitivePortrait-Dragon.ipynb](CognitivePortrait-Dragon.ipynb) | Placement of pupils at the vertices of the dragon fractal |
-| ![gates_with_teeth](gates_with_teeth.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Images are connected by one mouth into one colorful picture, and blended |
-| ![joley_x-man.](joley_x-man.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Aligning the face in the center and attaching two symmetrical heads to the bottom to make a x-man. |
+| ![gates_with_teeth](results/gates_with_teeth.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Images are connected by one mouth into one colorful picture, and blended |
+| ![joley_x-man.](results/joley_x-man.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Aligning the face in the center and attaching two symmetrical heads to the bottom to make a x-man. |
 |----|----|----|----|
 
 ## Artwork Gallery
