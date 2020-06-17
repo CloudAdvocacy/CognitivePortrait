@@ -49,6 +49,7 @@ Have fun creating art!
 | ![and we will all become dragons](results/dragon.jpg) | [@noxpardus](https://github.com/noxpardus) | [CognitivePortrait-Dragon.ipynb](CognitivePortrait-Dragon.ipynb) | Placement of pupils at the vertices of the dragon fractal |
 | ![gates_with_teeth](results/gates_with_teeth.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Images are connected by one mouth into one colorful picture, and blended |
 | ![joley_x-man.](results/joley_x-man.jpg) | [@linuxxxoid](https://github.com/linuxxxoid) | [CognitivePortrait-X-men.ipynb](CognitivePortrait-X-men.ipynb) | Aligning the face in the center and attaching two symmetrical heads to the bottom to make a x-man. |
+| ![Eater](results/eater.jpg) | [@Bronnikoff][https://github.com/Bronnikoff] | [CognitivePortrait-Eater.ipynb](CognitivePortrait-Eater.ipynb) | Mouth instead eyes made using affine transformes of standpoints |
 |----|----|----|----|
 
 ## Artwork Gallery
