@@ -15,27 +15,29 @@
 Как поделиться своими результатами:
 
 1. Fork and clone this repository [хорошая статья в помощь](https://habr.com/ru/post/313996/)
-2. Для запуска кода из этого репозитория, используйте один из двух способов:
-    - Клонируйте код в [Azure Notebooks](http://bit.do/whyaznb) - для этого [**нажмите сюда**][CloneAzNb]
+2. Для запуска кода из этого репозитория, используйте один из следующих способов:
+    - GitHub Codespaces
+    - Запустите код в [Binder](http://mybinder.org) - для этого [**нажмите сюда**](https://mybinder.org/v2/gh/CloudAdvocacy/CognitivePortrait/master)
     - Запустите Jupyter локально из клонированной директории (для этого понадобится настроенное окружение Python)
-3. Отпройте и изучите [CognitivePortrait.ipynb](CognitivePortrait.ipynb) чтобы понять основные принципы, попробуйте запускать код сами.
+1. Отпройте и изучите [CognitivePortrait.ipynb](CognitivePortrait.ipynb) чтобы понять основные принципы, попробуйте запускать код сами.
     - В процессе этого вам понадобится получить ключ Face API - [тут можно получить trial на 7 дней][FaceAPITrial]
-4. Если вы хотите использовать существующую технику:
+    - Используйте [CognitivePortrait-mPyPl.ipynb](CognitivePortrait-mPyPl.ipynb), если хотите попробовать код в функциональном стиле с использование библиотеки [mPyPl](http://github.com/shwars/mPyPl)
+1. Если вы хотите использовать существующую технику:
     - Поместите свои картинки в папку `images` (можно создать поддиректорию). При использовании Azure Notebooks - загрузите фото туда
     - Откройте ноутбук `.ipynb`, соответствующий той технике, которую вы хотите использовать
     - Выполните все ячейки, чтобы получить свой портрет
     - Запишите результат в директорию `results` с уникальным именем
     - При использовании Azure Notebooks -- скачайте результат и поместите его в локальную папку `results`
     - Если хотите, вы можете также поместить исходные изображения, которые вы использовали для создания картинки, в поддиректорию папки `images` (при условии, что они занимают не слишком много места)
-5. Если вы хотите придумать свою технику:
+1. Если вы хотите придумать свою технику:
     - Начните с [CognitivePortrait-Start.ipynb](CognitivePortrait-Start.ipynb) - там содержится минимум инструкций, в основном код
     - Напишите и опробуйте свой код для создания портрета 
     - Вы можете использовать существующие картинки в директории `images` или загрузить свои
     - Сохраните результат в папке `results` с уникальным именем. При использовании Azure Notebooks - скачайте в локальную директорию.
-6. Отредактируйте [README.md](README.md), добавьте свою картинку в галерею или в список техник
-7. Сделайте [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), чтобы добавить свой код в исходный проект по адресу http://github.com/CloudAdvocacy/CognitivePortrait
+1. Отредактируйте [README.md](README.md), добавьте свою картинку в галерею или в список техник
+1. Сделайте [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), чтобы добавить свой код в исходный проект по адресу http://github.com/CloudAdvocacy/CognitivePortrait
 
-<a href="https://notebooks.azure.com/import/gh/CloudAdvocacy/CognitivePortrait"><img src="https://notebooks.azure.com/launch.png" /></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CloudAdvocacy/CognitivePortrait/master)
 
 Наслаждайтесь творчеством!
 
@@ -43,5 +45,4 @@
 
 [FaceAPI]: https://azure.microsoft.com/services/cognitive-services/face/?WT.mc_id=aiapril-github-dmitryso
 [shwars]: https://github.com/shwars
-[CloneAzNb]: https://notebooks.azure.com/import/gh/CloudAdvocacy/CognitivePortrait
 [FaceAPITrial]: https://azure.microsoft.com/try/cognitive-services/my-apis/?api=face-api&WT.mc_id=aiapril-github-dmitryso
